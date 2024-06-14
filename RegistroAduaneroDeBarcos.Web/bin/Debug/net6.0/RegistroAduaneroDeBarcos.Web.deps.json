@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegistroAduaneroDeBarcos.Web/1.0.0": {
+        "dependencies": {
+          "RegistroDeBarcos.Logica": "1.0.0"
+        },
+        "runtime": {
+          "RegistroAduaneroDeBarcos.Web.dll": {}
+        }
+      },
+      "RegistroDeBarcos.Entidades/1.0.0": {
+        "runtime": {
+          "RegistroDeBarcos.Entidades.dll": {}
+        }
+      },
+      "RegistroDeBarcos.Logica/1.0.0": {
+        "dependencies": {
+          "RegistroDeBarcos.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "RegistroDeBarcos.Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistroAduaneroDeBarcos.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegistroDeBarcos.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegistroDeBarcos.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

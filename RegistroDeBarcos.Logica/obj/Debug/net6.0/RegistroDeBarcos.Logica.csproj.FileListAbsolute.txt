@@ -1,0 +1,15 @@
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\bin\Debug\net6.0\RegistroDeBarcos.Logica.deps.json
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\bin\Debug\net6.0\RegistroDeBarcos.Logica.dll
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\bin\Debug\net6.0\RegistroDeBarcos.Logica.pdb
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\bin\Debug\net6.0\RegistroDeBarcos.Entidades.dll
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\bin\Debug\net6.0\RegistroDeBarcos.Entidades.pdb
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\RegistroDeBarcos.Logica.csproj.AssemblyReference.cache
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\RegistroDeBarcos.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\RegistroDeBarcos.Logica.AssemblyInfoInputs.cache
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\RegistroDeBarcos.Logica.AssemblyInfo.cs
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\RegistroDeBarcos.Logica.csproj.CoreCompileInputs.cache
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\Registro.79F11135.Up2Date
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\RegistroDeBarcos.Logica.dll
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\refint\RegistroDeBarcos.Logica.dll
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\RegistroDeBarcos.Logica.pdb
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Logica\obj\Debug\net6.0\ref\RegistroDeBarcos.Logica.dll

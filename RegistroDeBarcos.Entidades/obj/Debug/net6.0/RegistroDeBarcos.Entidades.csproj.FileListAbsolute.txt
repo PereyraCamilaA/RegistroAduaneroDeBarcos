@@ -1,0 +1,11 @@
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\bin\Debug\net6.0\RegistroDeBarcos.Entidades.deps.json
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\bin\Debug\net6.0\RegistroDeBarcos.Entidades.dll
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\bin\Debug\net6.0\RegistroDeBarcos.Entidades.pdb
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\RegistroDeBarcos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\RegistroDeBarcos.Entidades.AssemblyInfoInputs.cache
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\RegistroDeBarcos.Entidades.AssemblyInfo.cs
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\RegistroDeBarcos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\RegistroDeBarcos.Entidades.dll
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\refint\RegistroDeBarcos.Entidades.dll
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\RegistroDeBarcos.Entidades.pdb
+C:\Users\perey\source\repos\RegistroAduaneroDeBarcos\RegistroDeBarcos.Entidades\obj\Debug\net6.0\ref\RegistroDeBarcos.Entidades.dll

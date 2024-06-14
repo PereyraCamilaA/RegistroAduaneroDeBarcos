@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RegistroDeBarcos.Logica/1.0.0": {
+        "dependencies": {
+          "RegistroDeBarcos.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "RegistroDeBarcos.Logica.dll": {}
+        }
+      },
+      "RegistroDeBarcos.Entidades/1.0.0": {
+        "runtime": {
+          "RegistroDeBarcos.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistroDeBarcos.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegistroDeBarcos.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

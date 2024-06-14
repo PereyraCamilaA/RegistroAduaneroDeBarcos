@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A23380-F9BE-44D1-A991-7F5978B90860}|RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj|c:\\users\\perey\\source\\repos\\registroaduanerodebarcos\\registroaduanerodebarcos.web\\views\\shared\\_aduanalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7A23380-F9BE-44D1-A991-7F5978B90860}|RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj|solutionrelative:registroaduanerodebarcos.web\\views\\shared\\_aduanalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A23380-F9BE-44D1-A991-7F5978B90860}|RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj|c:\\users\\perey\\source\\repos\\registroaduanerodebarcos\\registroaduanerodebarcos.web\\controllers\\barcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A23380-F9BE-44D1-A991-7F5978B90860}|RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj|solutionrelative:registroaduanerodebarcos.web\\controllers\\barcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D929BEB-EBAB-4244-9B82-1337E7BBE22B}|RegistroDeBarcos.Logica\\RegistroDeBarcos.Logica.csproj|c:\\users\\perey\\source\\repos\\registroaduanerodebarcos\\registrodebarcos.logica\\services\\barcosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D929BEB-EBAB-4244-9B82-1337E7BBE22B}|RegistroDeBarcos.Logica\\RegistroDeBarcos.Logica.csproj|solutionrelative:registrodebarcos.logica\\services\\barcosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A23380-F9BE-44D1-A991-7F5978B90860}|RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj|c:\\users\\perey\\source\\repos\\registroaduanerodebarcos\\registroaduanerodebarcos.web\\models\\barcomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A23380-F9BE-44D1-A991-7F5978B90860}|RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj|solutionrelative:registroaduanerodebarcos.web\\models\\barcomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AduanaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\Views\\Shared\\_AduanaLayout.cshtml",
+              "RelativeDocumentMoniker": "RegistroAduaneroDeBarcos.Web\\Views\\Shared\\_AduanaLayout.cshtml",
+              "ToolTip": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\Views\\Shared\\_AduanaLayout.cshtml",
+              "RelativeToolTip": "RegistroAduaneroDeBarcos.Web\\Views\\Shared\\_AduanaLayout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T00:04:26.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarcosService.cs",
+              "DocumentMoniker": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroDeBarcos.Logica\\Services\\BarcosService.cs",
+              "RelativeDocumentMoniker": "RegistroDeBarcos.Logica\\Services\\BarcosService.cs",
+              "ToolTip": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroDeBarcos.Logica\\Services\\BarcosService.cs",
+              "RelativeToolTip": "RegistroDeBarcos.Logica\\Services\\BarcosService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:02:53.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Barcos.cs",
+              "DocumentMoniker": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\Controllers\\Barcos.cs",
+              "RelativeDocumentMoniker": "RegistroAduaneroDeBarcos.Web\\Controllers\\Barcos.cs",
+              "ToolTip": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\Controllers\\Barcos.cs",
+              "RelativeToolTip": "RegistroAduaneroDeBarcos.Web\\Controllers\\Barcos.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:57:52.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarcoModel.cs",
+              "DocumentMoniker": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\Models\\BarcoModel.cs",
+              "RelativeDocumentMoniker": "RegistroAduaneroDeBarcos.Web\\Models\\BarcoModel.cs",
+              "ToolTip": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\Models\\BarcoModel.cs",
+              "RelativeToolTip": "RegistroAduaneroDeBarcos.Web\\Models\\BarcoModel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:57:53.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

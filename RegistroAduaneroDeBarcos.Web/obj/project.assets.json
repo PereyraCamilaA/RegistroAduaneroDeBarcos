@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "RegistroDeBarcos.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RegistroDeBarcos.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegistroDeBarcos.Entidades.dll": {}
+        }
+      },
+      "RegistroDeBarcos.Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "RegistroDeBarcos.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RegistroDeBarcos.Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RegistroDeBarcos.Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistroDeBarcos.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../RegistroDeBarcos.Entidades/RegistroDeBarcos.Entidades.csproj",
+      "msbuildProject": "../RegistroDeBarcos.Entidades/RegistroDeBarcos.Entidades.csproj"
+    },
+    "RegistroDeBarcos.Logica/1.0.0": {
+      "type": "project",
+      "path": "../RegistroDeBarcos.Logica/RegistroDeBarcos.Logica.csproj",
+      "msbuildProject": "../RegistroDeBarcos.Logica/RegistroDeBarcos.Logica.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "RegistroDeBarcos.Logica >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\perey\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj",
+      "projectName": "RegistroAduaneroDeBarcos.Web",
+      "projectPath": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\RegistroAduaneroDeBarcos.Web.csproj",
+      "packagesPath": "C:\\Users\\perey\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroAduaneroDeBarcos.Web\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\perey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroDeBarcos.Logica\\RegistroDeBarcos.Logica.csproj": {
+              "projectPath": "C:\\Users\\perey\\source\\repos\\RegistroAduaneroDeBarcos\\RegistroDeBarcos.Logica\\RegistroDeBarcos.Logica.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
